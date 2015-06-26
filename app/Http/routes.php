@@ -23,3 +23,9 @@ Route::get('/test', function () {
 Route::get('/test2', function () {
     return 'sprawdzenie działania git.';
 });
+
+
+
+Route::get('/test3', function () {
+    return 'sprawdzenie działania 3 git.';
+});
