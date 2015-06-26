@@ -29,3 +29,10 @@ Route::get('/test2', function () {
 Route::get('/test3', function () {
     return 'sprawdzenie działania 3 git.';
 });
+
+
+Route::get('/test4', function () {
+    return 'to dodalem z github edytora.';
+});
+
+
