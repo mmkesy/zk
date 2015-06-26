@@ -29,3 +29,14 @@ Route::get('/test2', function () {
 Route::get('/test3', function () {
     return 'sprawdzenie działania 3 git.';
 });
+
+
+
+Route::get('/moja_zmiana', function () {
+    return 'ale nie ma najświeższej wersji repozytorium';
+});
+
+
+
+
+
