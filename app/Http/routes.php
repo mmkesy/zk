@@ -44,3 +44,9 @@ Route::get('/test4', function () {
 Route::get('/test_end', function () {
     return 'wprowadzam na git hubie .';
 });
+
+
+
+Route::get('/xx', function () {
+    return 'zmiana xx.';
+});
