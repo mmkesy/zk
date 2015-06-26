@@ -31,6 +31,7 @@ Route::get('/test3', function () {
 });
 
 
+<<<<<<< HEAD
 
 Route::get('/moja_zmiana', function () {
     return 'ale nie ma najświeższej wersji repozytorium';
@@ -40,3 +41,10 @@ Route::get('/moja_zmiana', function () {
 
 
 
+=======
+Route::get('/test4', function () {
+    return 'to dodalem z github edytora.';
+});
+
+
+>>>>>>> 22a66d03ef553c4298d22008978fd246b7ceed8b
