@@ -18,3 +18,8 @@ Route::get('/', function () {
 Route::get('/test', function () {
     return 'well done.';
 });
+
+
+Route::get('/test2', function () {
+    return 'sprawdzenie działania git.';
+});
