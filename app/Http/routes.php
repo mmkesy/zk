@@ -47,6 +47,6 @@ Route::get('/test_end', function () {
 
 
 
-Route::get('/xx', function () {
+Route::get('/xxx', function () {
     return 'zmiana xx.';
 });
